@@ -1,0 +1,234 @@
+[
+    {
+        "id": 2,
+        "title": "Node.js bilan tanishuv",
+        "content": "Node.js backend development uchun juda qulay muhit bo‘lib, JavaScript yordamida server yozish imkonini beradi.",
+        "userId": 2,
+        "createdAt": "2026-03-01T09:00:00.000Z",
+        "updatedAt": "2026-03-01T09:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "title": "Express.js nima?",
+        "content": "Express.js Node.js uchun minimal va qulay framework bo‘lib, routing va middleware bilan ishlashni osonlashtiradi.",
+        "userId": 3,
+        "createdAt": "2026-03-01T10:00:00.000Z",
+        "updatedAt": "2026-03-01T10:00:00.000Z"
+    },
+    {
+        "id": 4,
+        "title": "REST API yaratish",
+        "content": "REST API orqali frontend va backend o‘rtasida ma’lumot almashish mumkin. Bu postda GET, POST, PUT, DELETE metodlari ko‘rib chiqiladi.",
+        "userId": 4,
+        "createdAt": "2026-03-01T11:00:00.000Z",
+        "updatedAt": "2026-03-01T11:00:00.000Z"
+    },
+    {
+        "id": 5,
+        "title": "JSON fayl bilan ishlash",
+        "content": "JSON formatdagi fayllarni o‘qish va yozish backend dasturlashda juda ko‘p ishlatiladi.",
+        "userId": 5,
+        "createdAt": "2026-03-01T12:00:00.000Z",
+        "updatedAt": "2026-03-01T12:00:00.000Z"
+    },
+    {
+        "id": 6,
+        "title": "Middleware tushunchasi",
+        "content": "Middleware Express ilovasida request va response orasida ishlovchi funksiya hisoblanadi.",
+        "userId": 6,
+        "createdAt": "2026-03-01T13:00:00.000Z",
+        "updatedAt": "2026-03-01T13:00:00.000Z"
+    },
+    {
+        "id": 7,
+        "title": "Routing qanday ishlaydi",
+        "content": "Routing foydalanuvchi yuborgan URL manzillariga mos ravishda kerakli controllerlarni chaqiradi.",
+        "userId": 7,
+        "createdAt": "2026-03-01T14:00:00.000Z",
+        "updatedAt": "2026-03-01T14:00:00.000Z"
+    },
+    {
+        "id": 8,
+        "title": "CRUD amallari",
+        "content": "CRUD — Create, Read, Update, Delete amallaridan iborat bo‘lib, deyarli har bir backend loyihada kerak bo‘ladi.",
+        "userId": 8,
+        "createdAt": "2026-03-01T15:00:00.000Z",
+        "updatedAt": "2026-03-01T15:00:00.000Z"
+    },
+    {
+        "id": 9,
+        "title": "Postman bilan test qilish",
+        "content": "Postman API endpointlarni test qilish uchun qulay vosita bo‘lib, request yuborish va javoblarni ko‘rishni osonlashtiradi.",
+        "userId": 9,
+        "createdAt": "2026-03-01T16:00:00.000Z",
+        "updatedAt": "2026-03-01T16:00:00.000Z"
+    },
+    {
+        "id": 10,
+        "title": "HTTP status kodlari",
+        "content": "200, 201, 400, 404, 500 kabi HTTP status kodlari server javobining holatini bildiradi.",
+        "userId": 10,
+        "createdAt": "2026-03-01T17:00:00.000Z",
+        "updatedAt": "2026-03-01T17:00:00.000Z"
+    },
+    {
+        "id": 11,
+        "title": "Handlebars bilan ishlash",
+        "content": "Handlebars templating engine yordamida backenddan kelgan ma’lumotlarni HTML ichida chiqarish mumkin.",
+        "userId": 11,
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "updatedAt": "2026-03-02T08:00:00.000Z"
+    },
+    {
+        "id": 12,
+        "title": "Template engine afzalliklari",
+        "content": "Template engine server tomonda HTML generatsiya qilishni ancha qulaylashtiradi.",
+        "userId": 12,
+        "createdAt": "2026-03-02T09:00:00.000Z",
+        "updatedAt": "2026-03-02T09:00:00.000Z"
+    },
+    {
+        "id": 13,
+        "title": "CSS bilan style berish",
+        "content": "Frontend ko‘rinishini chiroyli qilish uchun CSS asosiy vositalardan biri hisoblanadi.",
+        "userId": 13,
+        "createdAt": "2026-03-02T10:00:00.000Z",
+        "updatedAt": "2026-03-02T10:00:00.000Z"
+    },
+    {
+        "id": 14,
+        "title": "Flexbox haqida",
+        "content": "Flexbox elementlarni qator yoki ustun ko‘rinishida qulay joylashtirish imkonini beradi.",
+        "userId": 14,
+        "createdAt": "2026-03-02T11:00:00.000Z",
+        "updatedAt": "2026-03-02T11:00:00.000Z"
+    },
+    {
+        "id": 15,
+        "title": "Grid bilan layout qilish",
+        "content": "CSS Grid murakkab sahifa tuzilmalari yaratish uchun juda qulay texnologiya hisoblanadi.",
+        "userId": 15,
+        "createdAt": "2026-03-02T12:00:00.000Z",
+        "updatedAt": "2026-03-02T12:00:00.000Z"
+    },
+    {
+        "id": 16,
+        "title": "Frontend va Backend farqi",
+        "content": "Frontend foydalanuvchi ko‘radigan qism bo‘lsa, backend server tomonda ishlaydigan logikani bajaradi.",
+        "userId": 16,
+        "createdAt": "2026-03-02T13:00:00.000Z",
+        "updatedAt": "2026-03-02T13:00:00.000Z"
+    },
+    {
+        "id": 17,
+        "title": "MVC arxitekturasi",
+        "content": "MVC — Model, View, Controller qismlaridan tashkil topgan loyiha tuzilmasi.",
+        "userId": 17,
+        "createdAt": "2026-03-02T14:00:00.000Z",
+        "updatedAt": "2026-03-02T14:00:00.000Z"
+    },
+    {
+        "id": 18,
+        "title": "Controller vazifasi",
+        "content": "Controller requestni qabul qilib, kerakli business logicni bajaradi va response qaytaradi.",
+        "userId": 18,
+        "createdAt": "2026-03-02T15:00:00.000Z",
+        "updatedAt": "2026-03-02T15:00:00.000Z"
+    },
+    {
+        "id": 19,
+        "title": "Validation nima uchun kerak",
+        "content": "Validation noto‘g‘ri yoki yetarli bo‘lmagan ma’lumotlarning serverga kirib kelishini oldini oladi.",
+        "userId": 19,
+        "createdAt": "2026-03-02T16:00:00.000Z",
+        "updatedAt": "2026-03-02T16:00:00.000Z"
+    },
+    {
+        "id": 20,
+        "title": "Error handling",
+        "content": "Xatolarni to‘g‘ri ushlash va foydalanuvchiga aniq xabar berish dastur sifatini oshiradi.",
+        "userId": 20,
+        "createdAt": "2026-03-02T17:00:00.000Z",
+        "updatedAt": "2026-03-02T17:00:00.000Z"
+    },
+    {
+        "id": 21,
+        "title": "fs module bilan ishlash",
+        "content": "Node.js dagi fs moduli yordamida fayl yaratish, o‘qish va yozish mumkin.",
+        "userId": 21,
+        "createdAt": "2026-03-03T08:00:00.000Z",
+        "updatedAt": "2026-03-03T08:00:00.000Z"
+    },
+    {
+        "id": 22,
+        "title": "Path module nima qiladi",
+        "content": "Path moduli fayl va papka yo‘llari bilan xavfsiz ishlash imkonini beradi.",
+        "userId": 22,
+        "createdAt": "2026-03-03T09:00:00.000Z",
+        "updatedAt": "2026-03-03T09:00:00.000Z"
+    },
+    {
+        "id": 23,
+        "title": "Nodemon bilan qulay ishlash",
+        "content": "Nodemon loyiha fayllari o‘zgarganda serverni avtomatik qayta ishga tushiradi.",
+        "userId": 23,
+        "createdAt": "2026-03-03T10:00:00.000Z",
+        "updatedAt": "2026-03-03T10:00:00.000Z"
+    },
+    {
+        "id": 24,
+        "title": "Package.json haqida",
+        "content": "package.json loyiha haqida ma’lumotlar va dependencylarni saqlovchi muhim fayl hisoblanadi.",
+        "userId": 24,
+        "createdAt": "2026-03-03T11:00:00.000Z",
+        "updatedAt": "2026-03-03T11:00:00.000Z"
+    },
+    {
+        "id": 25,
+        "title": "Git bilan ishlash",
+        "content": "Git kod tarixini kuzatish va jamoa bo‘lib ishlash uchun juda kerakli vositadir.",
+        "userId": 25,
+        "createdAt": "2026-03-03T12:00:00.000Z",
+        "updatedAt": "2026-03-03T12:00:00.000Z"
+    },
+    {
+        "id": 26,
+        "title": "GitHub ga loyiha yuklash",
+        "content": "GitHub orqali loyihani online saqlash va boshqalar bilan ulashish mumkin.",
+        "userId": 26,
+        "createdAt": "2026-03-03T13:00:00.000Z",
+        "updatedAt": "2026-03-03T13:00:00.000Z"
+    },
+    {
+        "id": 27,
+        "title": "PATCH va PUT farqi",
+        "content": "PUT odatda objectni to‘liq yangilaydi, PATCH esa faqat kerakli fieldlarni o‘zgartiradi.",
+        "userId": 27,
+        "createdAt": "2026-03-03T14:00:00.000Z",
+        "updatedAt": "2026-03-03T14:00:00.000Z"
+    },
+    {
+        "id": 28,
+        "title": "DELETE request ishlashi",
+        "content": "DELETE metodi serverdagi mavjud ma’lumotni o‘chirish uchun ishlatiladi.",
+        "userId": 28,
+        "createdAt": "2026-03-03T15:00:00.000Z",
+        "updatedAt": "2026-03-03T15:00:00.000Z"
+    },
+    {
+        "id": 29,
+        "title": "Pagination tushunchasi",
+        "content": "Pagination katta ma’lumotlarni sahifalarga bo‘lib chiqarish uchun ishlatiladi.",
+        "userId": 29,
+        "createdAt": "2026-03-03T16:00:00.000Z",
+        "updatedAt": "2026-03-03T16:00:00.000Z"
+    },
+    {
+        "id": 30,
+        "title": "Backend loyihani tartibli yozish",
+        "content": "Controller, routes, helpers va data papkalarga ajratib ishlash loyiha strukturasini ancha tushunarli qiladi.",
+        "userId": 30,
+        "createdAt": "2026-03-03T17:00:00.000Z",
+        "updatedAt": "2026-03-03T17:00:00.000Z"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "id": 2,
+        "name": "Vali Karimov",
+        "email": "vali.karimov2@gmail.com",
+        "phone": "+998901111002"
+    },
+    {
+        "id": 3,
+        "name": "Hasan Toshmatov",
+        "email": "hasan.toshmatov3@gmail.com",
+        "phone": "+998901111003"
+    },
+    {
+        "id": 4,
+        "name": "Husan Ergashev",
+        "email": "husan.ergashev4@gmail.com",
+        "phone": "+998901111004"
+    },
+    {
+        "id": 5,
+        "name": "Dilshod Rasulov",
+        "email": "dilshod.rasulov5@gmail.com",
+        "phone": "+998901111005"
+    },
+    {
+        "id": 6,
+        "name": "Jasur Nematov",
+        "email": "jasur.nematov6@gmail.com",
+        "phone": "+998901111006"
+    },
+    {
+        "id": 7,
+        "name": "Bekzod Qodirov",
+        "email": "bekzod.qodirov7@gmail.com",
+        "phone": "+998901111007"
+    },
+    {
+        "id": 8,
+        "name": "Sardor Murodov",
+        "email": "sardor.murodov8@gmail.com",
+        "phone": "+998901111008"
+    },
+    {
+        "id": 9,
+        "name": "Oybek Xolmatov",
+        "email": "oybek.xolmatov9@gmail.com",
+        "phone": "+998901111009"
+    },
+    {
+        "id": 10,
+        "name": "Shahzod Aminov",
+        "email": "shahzod.aminov10@gmail.com",
+        "phone": "+998901111010"
+    },
+    {
+        "id": 11,
+        "name": "Aziza Yoqubova",
+        "email": "aziza.yoqubova11@gmail.com",
+        "phone": "+998901111011"
+    },
+    {
+        "id": 12,
+        "name": "Malika Sobirova",
+        "email": "malika.sobirova12@gmail.com",
+        "phone": "+998901111012"
+    },
+    {
+        "id": 13,
+        "name": "Nigina Raximova",
+        "email": "nigina.raximova13@gmail.com",
+        "phone": "+998901111013"
+    },
+    {
+        "id": 14,
+        "name": "Madina Tursunova",
+        "email": "madina.tursunova14@gmail.com",
+        "phone": "+998901111014"
+    },
+    {
+        "id": 15,
+        "name": "Sevara Islomova",
+        "email": "sevara.islomova15@gmail.com",
+        "phone": "+998901111015"
+    },
+    {
+        "id": 16,
+        "name": "Zarina Xudoyberdiyeva",
+        "email": "zarina.xudoyberdiyeva16@gmail.com",
+        "phone": "+998901111016"
+    },
+    {
+        "id": 17,
+        "name": "Umida Abdullayeva",
+        "email": "umida.abdullayeva17@gmail.com",
+        "phone": "+998901111017"
+    },
+    {
+        "id": 18,
+        "name": "Gulnoza Hamidova",
+        "email": "gulnoza.hamidova18@gmail.com",
+        "phone": "+998901111018"
+    },
+    {
+        "id": 19,
+        "name": "Feruza Oripova",
+        "email": "feruza.oripova19@gmail.com",
+        "phone": "+998901111019"
+    },
+    {
+        "id": 20,
+        "name": "Nodira Sattorova",
+        "email": "nodira.sattorova20@gmail.com",
+        "phone": "+998901111020"
+    },
+    {
+        "id": 21,
+        "name": "Bobur Mirzayev",
+        "email": "bobur.mirzayev21@gmail.com",
+        "phone": "+998901111021"
+    },
+    {
+        "id": 22,
+        "name": "Temur Rustamov",
+        "email": "temur.rustamov22@gmail.com",
+        "phone": "+998901111022"
+    },
+    {
+        "id": 23,
+        "name": "Sherzod Gʻaniyev",
+        "email": "sherzod.ganiyev23@gmail.com",
+        "phone": "+998901111023"
+    },
+    {
+        "id": 24,
+        "name": "Akbar Normatov",
+        "email": "akbar.normatov24@gmail.com",
+        "phone": "+998901111024"
+    },
+    {
+        "id": 25,
+        "name": "Murodjon To‘xtayev",
+        "email": "murodjon.toxtayev25@gmail.com",
+        "phone": "+998901111025"
+    },
+    {
+        "id": 26,
+        "name": "Sarvar Jalolov",
+        "email": "sarvar.jalolov26@gmail.com",
+        "phone": "+998901111026"
+    },
+    {
+        "id": 27,
+        "name": "Kamron Usmonov",
+        "email": "kamron.usmonov27@gmail.com",
+        "phone": "+998901111027"
+    },
+    {
+        "id": 28,
+        "name": "Farrux Eshonqulov",
+        "email": "farrux.eshonqulov28@gmail.com",
+        "phone": "+998901111028"
+    },
+    {
+        "id": 29,
+        "name": "Ibrohim Soliyev",
+        "email": "ibrohim.soliyev29@gmail.com",
+        "phone": "+998901111029"
+    },
+    {
+        "id": 30,
+        "name": "Doniyor Abdurasulov",
+        "email": "doniyor.abdurasulov30@gmail.com",
+        "phone": "+998901111030"
+    }
+]
